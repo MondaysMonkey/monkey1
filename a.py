@@ -1,1 +1,2 @@
-print("hello likang")
+print("hello likang"
+      print("handsome man")
